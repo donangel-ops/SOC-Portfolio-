@@ -12,7 +12,7 @@ Wireshark on Kali Linux
 - IoCs Found: Malware download attempt detected
 
 ## Evidence - My Screenshots
-![Screenshot 1](Screenshot from 2026-10-14 18-00-49.png)
+![My Main Screenshot](screenshot-main.png)
 ![Wireshark DNS](wireshark-dns.png)
 ![Wireshark HTTP](wireshark-http.png)
 
