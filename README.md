@@ -7,7 +7,7 @@ Lagos, Nigeria | donatusange1@gmail.com | [LinkedIn](https://www.linkedin.com/in
 
 **Git Config:**
 - user.name = Angel Oluchi Madusha
-- user.email = donatusange1@gmail.com
+- user.email = donatusangel@gmail.com
 
 ---
 
@@ -46,5 +46,5 @@ Lagos, Nigeria | donatusange1@gmail.com | [LinkedIn](https://www.linkedin.com/in
 ### 📫 Contact
 Open to SOC Analyst & Cybersecurity roles in Lagos / Remote.
 - LinkedIn: https://www.linkedin.com/in/angelmadusha
-- Email: donatusange1@gmail.com
+- Email: donatusangel@gmail.com
 - Portfolio: https://github.com/donangel-ops/SOC-Portfolio-
