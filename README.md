@@ -1,7 +1,7 @@
 # Angel Oluchi Madusha | SOC Analyst Portfolio
 
 **Cyber Security Analyst | SOC Analyst | Ethical Hacker**
-Lagos, Nigeria | donatusange1@gmail.com | [LinkedIn](https://www.linkedin.com/in/angelmadusha) | [GitHub](https://github.com/donangel-ops)
+Lagos, Nigeria | donatusangel@gmail.com | [LinkedIn](https://www.linkedin.com/in/angelmadusha) | [GitHub](https://github.com/donangel-ops)
 
 > SOC Analyst currently at Eleven One Bytes Ltd. Passionate about defending enterprise assets through threat monitoring, vulnerability management, and digital forensics.
 
