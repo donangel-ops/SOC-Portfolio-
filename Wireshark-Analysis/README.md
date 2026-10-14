@@ -8,11 +8,10 @@ Wireshark on Kali Linux
 
 ## Findings
 - Protocol: TCP, DNS, HTTP
-- Investigation steps: Filtered by ip.addr, followed TCP stream
+- Investigation: Filtered by ip.addr, followed TCP stream
 - IoCs Found: Malware download attempt detected
 
-## Evidence - My Screenshots
-![My Main Screenshot](screenshot-main.png)
+## Evidence - My Wireshark Screenshots
 ![Wireshark DNS](wireshark-dns.png)
 ![Wireshark HTTP](wireshark-http.png)
 
